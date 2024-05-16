@@ -7,7 +7,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBVU7LHLGrXXBxS-ALX5gHzb9y9cxw4WfM",
+  apiKey: "",
   authDomain: "react-social-media-proje-bbe91.firebaseapp.com",
   projectId: "react-social-media-proje-bbe91",
   storageBucket: "react-social-media-proje-bbe91.appspot.com",
